@@ -32,3 +32,19 @@
 ## Методы и инструменты
 
 UML, Use Case, User Stories, Impact Mapping, diagrams.net (draw.io).
+
+
+## Документация проекта
+
+### Требования
+- [Функциональные и нефункциональные требования](requirements/system-requirements.md)
+
+### Пользовательские сценарии
+- [UC-01 — Ранжирование кандидатов](use-cases/uc-01-rank-candidates.md)
+
+### Диаграммы
+- [Use Case — варианты использования](diagrams/use-case.drawio.png)
+- [Activity Diagram — процесс ранжирования](diagrams/activity-diagram.drawio.png)
+- [Impact Mapping — цели и участники](diagrams/impact-mapping.drawio.png)
+- [User Story Mapping — пользовательские истории](diagrams/user-story-map.drawio.png)
+
